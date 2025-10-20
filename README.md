@@ -4,7 +4,7 @@ A tool that loads order book depth historical data for back-testing. Loads 1 min
 ## Installation
 
 ```go
-go get github.com/bogdantimes/order-book-depth-loader@latest
+go get github.com/digitalmaxing/order-book-depth-loader@latest
 ```
 
 🫡
